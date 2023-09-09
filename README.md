@@ -1,6 +1,4 @@
-# Python
-
-Python
-#This repo will have more branches, each branh is associated with a project
-
-# this is for udemy
+#Python
+It's a simple audiobook project with male and female voice using Python
+pip install pyttsx3
+pip install PyPDF2
